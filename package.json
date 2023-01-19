@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "browserslist" : [
+  "browserslist": [
     "last 2 chrome versions",
     "last 2 firefox versions",
     "last 2 ios versions"
@@ -26,6 +26,7 @@
     "gulp-clean-css": "^4.3.0",
     "gulp-postcss": "^9.0.1",
     "gulp-sass": "^5.1.0",
+    "sass": "^1.57.1",
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1",
     "webpack-stream": "^7.0.0"
